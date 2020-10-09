@@ -3,7 +3,7 @@
 React JS Fundamentals Course 2020
 
 ## 10월 7일
-1. 컴포넌트에 데이터 전달 시 props를 사용한다.
+>1. 컴포넌트에 데이터 전달 시 props를 사용한다.
 >2. map 함수로 컴포넌트를 반환 한다.
 >3. 함수를 작성하고 onClick 속성을 추가한다.
 >4. setState() 함수에 새로운 객체를 전달하면 리액트가 자동으로 state에 반영해준다.
