@@ -2,6 +2,14 @@
 ## Movie_APP_2020
 React JS Fundamentals Course 2020
 
+## 10월 16일
+>1.영화 데이터는 배열에 담는다.
+>2.영화 API 사용해 보기(axios 도구 사용)
+>3.axios.get('URL') 함수 이용해서 API 호출
+>4.axios 설치하기
+>5.YTS 영화 데이터 API로 적용하기
+>6.getMovies() 함수 생성 후, 함수 안에서 axios.get() 실행하기
+
 ## 10월 7일
 >1. 컴포넌트에 데이터 전달 시 props를 사용한다.
 >2. map 함수로 컴포넌트를 반환 한다.
