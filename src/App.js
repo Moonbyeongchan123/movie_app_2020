@@ -7,6 +7,7 @@ class App extends React.Component {
     isLoading: true,
     movies: [],
   };
+  
   getMovies = async () => {
     const {
       data: {
@@ -15,9 +16,11 @@ class App extends React.Component {
     } = await axios.get("https://yts-proxy.now.sh/list_movies.json?sort_by=rating");
     this.setState({movies, isLoading: false});
   };
+  
   componentDidMount() {
     this.getMovies();
   }
+  
   render() {
     const { isLoading, movies } = this.state;
     return (
