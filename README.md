@@ -2,6 +2,13 @@
 ## Movie_APP_2020
 React JS Fundamentals Course 2020
 
+## 10월 30일
+>1. Movie.propTypes 작성하기
+>2. Movie 컴포넌트에 props 전달하기 (console에서 확인)
+>3. 객체 key값으로 영화 데이터 가져오기
+>4. 배열에 data를 이용해 데이터 추출할수있다.
+>5. PropTypes 을 이용해 검사한다
+
 ## 10월 16일
 >1. 영화 데이터는 배열에 담는다.
 >2. 영화 API 사용해 보기(axios 도구 사용)
@@ -35,5 +42,5 @@ React JS Fundamentals Course 2020
 ## 09월 11일
 >1. Dothome에 indexfile 수정하기
 >2. Readme.md 수정후 github에 push 하기
->* 언제까지? 9월16일까지.
+* 언제까지? 9월16일까지.
 
