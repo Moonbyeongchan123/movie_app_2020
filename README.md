@@ -2,6 +2,13 @@
 ## Movie_APP_2020
 React JS Fundamentals Course 2020
 
+## 11월 6일
+>1. 리액트에서 class 대신 classname 사용
+>2. Movie.css와 App.css 생성
+>3. class를 className으로 수정
+>4. css연결은 임포트를 import './App.css'; 이런식으로 해준다
+>5. 영화 포스터 이미지 추가 ( 태그 사용)
+
 ## 10월 30일
 >1. Movie.propTypes 작성하기
 >2. Movie 컴포넌트에 props 전달하기 (console에서 확인)
