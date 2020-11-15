@@ -2,6 +2,13 @@
 ## Movie_APP_2020
 React JS Fundamentals Course 2020
 
+## 11월 13일
+>1. title 수정 (이름 Movie App)
+>2. App.css와 Movie.css로 카드모양으로 출력하기
+>3. css 연결
+>4. 시놉시스 제한하기
+>5. 라우터 설치및 만들어 사용해 보기(클릭이동)
+
 ## 11월 6일
 >1. 리액트에서 class 대신 classname 사용
 >2. Movie.css와 App.css 생성
