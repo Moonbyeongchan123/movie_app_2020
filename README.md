@@ -2,6 +2,11 @@
 ## Movie_APP_2020
 React JS Fundamentals Course 2020
 
+## 11월 20일
+>1. url에서 직접 연결하면 홈페이지로 리다이렉트
+>2. 상세페이지 만들기(Detail.js)
+>3. git에서 배포하기
+
 ## 11월 13일
 >1. title 수정 (이름 Movie App)
 >2. App.css와 Movie.css로 카드모양으로 출력하기
