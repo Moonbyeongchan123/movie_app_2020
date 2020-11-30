@@ -2,6 +2,11 @@
 ## Movie_APP_2020
 React JS Fundamentals Course 2020
 
+## 11월 27일
+>1. 상태를 가지는 컴포넌트 (타이머) - 상태주기함수
+>2. 간단한 컴포넌트
+>3. CDN링크 설정하기 - crossorigin을 사용, CORS규정을 따름
+>4. JSX 빠르게 시도해보기
 ## 11월 20일
 >1. url에서 직접 연결하면 홈페이지로 리다이렉트
 >2. 상세페이지 만들기(Detail.js)
